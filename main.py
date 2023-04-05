@@ -56,5 +56,5 @@ print(11 == 10) #false
 print(10 != 10) #false
 print(11 != 10) #true
 
-
+print(10 == 11) #false
 # operatörler -end
